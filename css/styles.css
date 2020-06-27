@@ -1,0 +1,153 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-size: 5.6rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    margin-top: 0;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #fa1616;
+    border-width: 5px;
+    height: 0;
+    width: 5%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+a {
+    padding-top: 50px;
+    color: #092532;
+    text-decoration: none;
+    margin: 10px;
+}
+
+a:hover {
+    color: white;
+}
+
+.topContainer {
+    background-color: #EAF6F6;
+    padding-top: 100px;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 250px;
+    bottom: 250px;
+}
+
+.topCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.profile-img {
+    height: 240px;
+    width: 240px;
+    margin-bottom: 30px;
+}
+
+.games {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.badminton {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.a-programmer {
+    font-weight: normal;
+}
+
+.skill-row {
+    margin: 50px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile {
+    margin: 50px auto 100px auto;
+    width: 50%;
+}
+
+.contact-me {
+    margin: 50px auto 100px auto;
+    width: 50%;
+}
+
+.btn {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    height: 20px;
+    line-height: 20px;
+    color: #00E2FF;
+    font-family: Open Sans;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px;
+    background-color: #000000;
+    box-shadow: 1px 1px 20px 0px #000000;
+    -webkit-box-shadow: 1px 1px 20px 0px #000000;
+    -moz-box-shadow: 1px 1px 20px 0px #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #00E2FF 7px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btn:hover {
+    background: #000000;
+    border: solid #00E2FF 5px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    text-decoration: none;
+}
+
+.bottom-container {
+    margin: 0;
+    background-color: #66bfbf;
+    height: 50px;
+    padding: 50px;
+}
+
+.copyright {
+    padding-top: 10px;
+    color: white;
+}
